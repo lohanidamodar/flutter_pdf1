@@ -1,6 +1,6 @@
 # flutter_pdf1
 
-A new Flutter project.
+A simple example to show how to render PDF in flutter using `flutter_plugin_pdf_viewer` plugin. It is the easiest one I found, and has a impressive default settings. Automatically caches the URL based PDF documents. No need to download the files yourself. Awesome!
 
 ## Getting Started
 
